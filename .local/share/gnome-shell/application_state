@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="org.gnome.gedit.desktop" score="1268" last-seen="1698690396"/>
+    <application id="update-manager.desktop" score="160" last-seen="1698088014"/>
+    <application id="org.gnome.Nautilus.desktop" score="1858" last-seen="1698690302"/>
+    <application id="org.gnome.Terminal.desktop" score="1892" last-seen="1698690394"/>
+    <application id="org.gnome.FileRoller.desktop" score="0" last-seen="1698151093"/>
+    <application id="thunderbird.desktop" score="0" last-seen="1698139860"/>
+    <application id="yelp.desktop" score="0" last-seen="1698089572"/>
+  </context>
+</application-state>
